@@ -16,7 +16,7 @@ local Settings, Celex, Luas, Visuals, Math, Color, GunsTable, ModPowers = {
     },
 
     Universal = {
-        ['Ping Prediction'] = false,
+        ['Ping Prediction'] = true,
 
         ['Resolver'] = {
             ['Enabled'] = true, 
